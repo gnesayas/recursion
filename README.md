@@ -1,1 +1,1 @@
-# recursion
+This mini-project is to help practice with recursion.
